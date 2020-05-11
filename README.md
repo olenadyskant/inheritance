@@ -1,0 +1,2 @@
+# inheritance
+JavaScript Classes Inheritance
